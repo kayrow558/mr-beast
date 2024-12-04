@@ -1,27 +1,5 @@
 
-/* Reset básico */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-/* Configurações gerais */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-  padding: 10px;
-}
-
-.container {
-  max-width: 600px; /* Define o limite da largura para desktops */
-  margin: 0 auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
 
 /* Estilo para imagens */
 .imagem {
