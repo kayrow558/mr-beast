@@ -1,14 +1,4 @@
-/* Estilo para a pergunta */
-.pergunta-whats {
-  font-size: 18px; /* Tamanho da fonte da pergunta */
-  color: #000000; /* Cor escura para o texto */
-  line-height: 1.5; /* Melhor legibilidade com espaçamento entre as linhas */
-  margin-bottom: 20px; /* Espaço abaixo da pergunta */
-  text-align: center; /* Centraliza a pergunta */
-  word-wrap: break-word; /* Quebra as palavras longas */
-  overflow-wrap: break-word; /* Quebra as palavras longas, se necessário */
-  width: 100%; /* Ocupa a largura inteira da caixa */
-}
+
 
 /* Estilo para o contêiner dos botões */
 .rating-container {
