@@ -1,7 +1,7 @@
 /* Estilo para a pergunta */
 .pergunta-whats {
   font-size: 18px; /* Tamanho da fonte da pergunta */
-  color: #333; /* Cor escura para o texto */
+  color: #000000; /* Cor escura para o texto */
   line-height: 1.5; /* Melhor legibilidade com espaçamento entre as linhas */
   margin-bottom: 20px; /* Espaço abaixo da pergunta */
   text-align: center; /* Centraliza a pergunta */
