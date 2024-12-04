@@ -6,7 +6,7 @@
   flex-wrap: wrap; /* Permite que os botões se ajustem em várias linhas se necessário */
   justify-content: center; /* Centraliza os botões horizontalmente */
   gap: 10px; /* Espaçamento entre os botões */
-  margin-bottom: 30px; /* Espaçamento abaixo dos botões */
+  margin-bottom: 40px; /* Espaçamento abaixo dos botões */
 }
 
 /* Estilo para os botões */
