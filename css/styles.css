@@ -378,7 +378,7 @@
 }
 
 .desbloquear-button {
-  background-color: #ec006e;
+  background-color: #06ff12;
 
   width: 90%;
   border-radius: 8px;
@@ -827,7 +827,7 @@ height: 100vh; /* Ajuste conforme necessÃ¡rio para ocupar toda a altura da tel
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #ec006e /* Cor do texto */
+  color: #01ff3b /* Cor do texto */
 }
 
 #meu-valor-progresso {
