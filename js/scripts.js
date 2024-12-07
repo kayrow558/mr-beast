@@ -493,7 +493,7 @@ function verificarCampos() {
     if (email === "") {
         alert("Insira seu e-mail para logar!");
     } else if (!emailValido.test(email)) {
-        alert("Insira um e-mail vÃ¡lido!");
+        alert("Insira um e-mail valido!");
     } else {
         // Se o campo estiver preenchido e for um e-mail vÃ¡lido, redireciona para a prÃ³xima pÃ¡gina
         showLoading();
