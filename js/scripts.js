@@ -424,10 +424,10 @@ function verificarValor() {
     if (valor >= 330 && valor < 350) {
         // Popup para valor >= 1362.60 e < 2725.20
         showPopupL();
-    } else if (valor >= 940 && valor < 950) {
+    } else if (valor >= 400 && valor < 500) {
         // Popup para valor >= 2725.20 e < 4087.8
         showPopupL();
-    } else if (valor >= 1400) {
+    } else if (valor >= 600) {
         // Popup para valor >= 4087.8
         showPopupL();
     }
